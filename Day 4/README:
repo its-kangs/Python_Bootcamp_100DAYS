@@ -1,0 +1,14 @@
+# Day 4: Rock Paper Scissors ✊🖐✌️
+
+A CLI Rock Paper Scissors game against the computer with ASCII art hands.
+
+## Concepts Covered
+- Lists and indexing
+- `random` module (`randint`)
+- Conditional logic & edge case handling
+- Importing modules
+
+## How to Run
+```bash
+python rock_paper_scissors.py
+```
